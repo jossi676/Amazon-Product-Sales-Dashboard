@@ -1,6 +1,6 @@
-**🛒 Amazon Product Sales Performance Dashboard – 2025 (Power BI)**
 
-## 📷 Dashboard Preview
+## 📷  Amazon Product Sales Performance Dashboard – 2025 (Power BI)
+Dashboard Preview
 ![Dashboard Overview](Sales_Dashboard.jpg)
 
 📘 Project Context
