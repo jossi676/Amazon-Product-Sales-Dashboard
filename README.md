@@ -1,9 +1,8 @@
 
 🛒 Amazon Product Sales Performance Dashboard – 2025 (Power BI)
-
 📘 Project Context
 This project simulates a Business Analyst assignment for an e-commerce platform using a public Amazon product dataset (42K items, 2025).
-The goal is to support pricing, product, and category-level decisions using data.
+The goal is not just visualization, but to support pricing, product, and category-level decisions using data.
 The dashboard is designed for Product Managers, Category Managers, and Pricing Teams to quickly understand:
 •	Which categories drive the most value
 •	How discounts influence customer ratings
