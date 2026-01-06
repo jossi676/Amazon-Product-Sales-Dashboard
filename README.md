@@ -103,8 +103,7 @@ ________________________________________
 (No custom DAX was required for this analysis.)
 ________________________________________
 ## 📷 Dashboard Preview
-![Dashboard Overview](Dashboard_Screenshots/Overview.png)
-
+![Dashboard Overview](Sales_Dashboard.jpg)
 
 **Created by:** *Jijo S*  
 **Dataset Source:** Kaggle  
