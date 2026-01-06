@@ -1,5 +1,9 @@
 
 🛒 Amazon Product Sales Performance Dashboard – 2025 (Power BI)
+
+## 📷 Dashboard Preview
+![Dashboard Overview](Sales_Dashboard.jpg)
+
 📘 Project Context
 This project simulates a Business Analyst assignment for an e-commerce platform using a public Amazon product dataset (42K items, 2025).
 The goal is not just visualization, but to support pricing, product, and category-level decisions using data.
@@ -102,8 +106,7 @@ ________________________________________
 •	Business framing – Assumptions, insights, recommendations
 (No custom DAX was required for this analysis.)
 ________________________________________
-## 📷 Dashboard Preview
-![Dashboard Overview](Sales_Dashboard.jpg)
+
 
 **Created by:** *Jijo S*  
 **Dataset Source:** Kaggle  
